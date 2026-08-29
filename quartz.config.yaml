@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ilnerdchuck.github.io/garden
+  baseUrl: ilnerdchuck.github.il/garden
   ignorePatterns:
     - private
     - templates
